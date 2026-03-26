@@ -1,7 +1,8 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date:
-# Register no.
+# Date:20-3-2026
+# Register no.212223230159
+
 # Aim
 
 To develop a prompt-based application using ChatGPT to organize daily tasks and demonstrate progression from simple prompts to advanced prompt designs.
